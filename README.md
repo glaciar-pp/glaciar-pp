@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 ### :sparkles: **My GitHub Stats** :sparkles:  
  
@@ -16,11 +16,14 @@
   
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
----
-### **most Used languages**
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>   
+
+---   
+### :bar_chart: **most Used languages** :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaciar-pp&layout=compact)](https://github.com/glaciar-pp/github-readme-stats)
----  
+
+---
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglaciar-pp%2Fhit-counter&count_bg=%23FFDE1C&title_bg=%238B8B8B&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
